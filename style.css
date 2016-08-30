@@ -15,12 +15,43 @@
 	height: 1000px;
 	background: #F00;
 }
+.title-date {
+	text-align:center;
+	width:70px;
+	height:60px;
+	padding:5px 0;
+	background-color:#f00;
+	border-radius:10px;
+	color:#FFF;
+}
+.title-date-day {
+	display:block;
+	height:30px;
+	font-size:28px;
+	line-height:35px;
+	overflow:hidden;
+}
+.title-date-month {
+	display:block;
+	height:14px;
+	overflow:hidden;
+	font-size:12px;
+	line-height:12px;
+}
+.title-date-year {
+	display:block;
+	height:14px;
+	overflow:hidden;
+	font-size:12px;
+	line-height:12px;
+}
 
 #containtbox-right{
 	float: right;
 	width: 20%;
 	height: 1000px;
 	background: #Ff0;
+	font-size: 30px;
 }
 
 /*=======フッター=========*/
