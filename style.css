@@ -1,10 +1,13 @@
+
+/*==========ヘッダー=====*/
+
 #header{
 	width: 100%;
 	height: 300px;
 	background: #00f;
 }
-/*==========メイン＝＝＝＝＝＝＝*/
 
+/*==========メイン＝＝＝＝＝＝＝*/
 
 #containtbox-left{
 	float: left;
@@ -20,7 +23,10 @@
 	background: #Ff0;
 }
 
+/*=======フッター=========*/
+
 #footer{
+	margin: 10px 10px;
 	width: 100%;
 	height: 100px;
 	clear: both;
